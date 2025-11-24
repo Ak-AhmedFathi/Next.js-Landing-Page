@@ -140,11 +140,13 @@ Contributions are welcome!
 4. Make your changes
 5. Submit a **Pull Request**
 
+
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See `LICENSE` file for details.
+## 💌 Contact
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-fathi-in/  
+- 🌐 **Portfolio:** https://ahmedfathi.com  
+- 📧 **Email:** info@ahmedfathi.com
 
 ---
 
@@ -155,4 +157,13 @@ This project is licensed under the **MIT License**. See `LICENSE` file for detai
 * **Next.js Docs:** [https://nextjs.org/docs](https://nextjs.org/docs)
 * **Tailwind CSS Docs:** [https://tailwindcss.com/docs](https://tailwindcss.com/docs)
 * **Framer Motion Docs:** [https://www.framer.com/motion/](https://www.framer.com/motion/)
+
+---
+
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See `LICENSE` file for details.
+
+---
 
