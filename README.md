@@ -1,10 +1,10 @@
 # Next.js Landing Page Template
-<!--
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
--->
+
 A modern, fully-responsive landing page template built with **Next.js**, **Tailwind CSS**, **shadcn/ui**, and **Framer Motion**.
 Perfect for SaaS products, startups, and marketing websites.
 
